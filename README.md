@@ -27,6 +27,7 @@ This project implements sentiment analysis using DistilBERT, a lightweight versi
 
 The model achieved high classification accuracy on the test dataset and successfully classified unseen reviews.
 
-## Author
+## Google Colab Notebook
 
-Vanshika Sahu
+[Open Notebook Here](https://colab.research.google.com/drive/1orlpmbiW4dvtfdeMBYIRooADL4B1Dkpx#scrollTo=v1Qi9pggdcjR)
+
